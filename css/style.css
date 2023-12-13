@@ -806,12 +806,12 @@ right: 0;
 }
 
 .cont .read_more {
-     background-color: #ebce09;
+     background-color: red; /*#ebce09;*/
      border-radius: 30px;
 }
 
 .cont .read_more:hover {
-     background-color: #000;
+     background-color: #820000;
 }
 
 .copyright {
